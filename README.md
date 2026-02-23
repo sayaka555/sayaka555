@@ -38,9 +38,12 @@ I am a first-year Master's student at the University of Tokyo, specializing in T
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayaka555&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f&icon_color=0969da" alt="Sayaka's GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayaka555&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f&icon_color=0969da" alt="Sayaka's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayaka555&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f" alt="Sayaka's Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sayaka555&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f" alt="Sayaka's Top Languages"/>
 </div>
+
 
