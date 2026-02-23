@@ -2,12 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I am a first-year Master's student at the University of Tokyo, specializing in Technology Management and AI System Implementation. My passion lies at the intersection of cutting-edge AI research and its real-world social implementation.
-
-*   🔭 **Research & Engineering:** Currently focused on LLMs, AI Agents, and VLM frameworks.
-*   💼 **Experience:** Previous Software Engineering Intern at **Google** (Geo UGC RWE & ChromeOS ARC) and AI Engineer Intern at **Matsuo Institute**.
-*   🚀 **Entrepreneurship:** Leading branding and community building for **DICE** (Deep Tech Entrepreneurship) to bridge lab-grown tech and the market.
-*   🎓 **Background:** Majored in System Innovation (Engineering) at UTokyo. Passionate about bringing a strategic mindset to high-tech domains.
+I am a first-year Master's student at the University of Tokyo, specializing in Technology Management. My passion lies at the intersection of cutting-edge AI research and its real-world social implementation.
 
 <br/>
 
@@ -27,23 +22,5 @@ I am a first-year Master's student at the University of Tokyo, specializing in T
 </div>
 
 <br/>
-
-## 🚀 Key Projects
-
-*   🤖 **[VLM Web Agent Research](https://github.com/sayaka555):** Benchmarking multimodal models using the SeeAct framework.
-*   💼 **[M&A DX with LLM](https://github.com/sayaka555):** Developed a production-level RAG system for M&A advisory (with Matsuo Institute).
-*   💡 **[InsightMatchAI](https://github.com/sayaka555/InsightMatchAI):** A robust application demonstrating practical Python intelligence implementation.
-
-<br/>
-
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayaka555&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f&icon_color=0969da" alt="Sayaka's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sayaka555&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f" alt="Sayaka's Top Languages"/>
-</div>
 
 
